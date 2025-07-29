@@ -60,7 +60,7 @@ const ContactForm = ({ existingContact = {}, updateCallback }) => {
         />
       </div>
       <div>
-        <label htmlFor="email">Email</label>
+        <label htmlFor="email">Correo electrónico</label>
         <input 
           className="border border-gray-300 block py-2 px-4 w-full rounded focus:outline-none focus:border-teal-500"
           type="text"
